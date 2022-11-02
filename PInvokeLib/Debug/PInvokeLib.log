@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PInvokeLib.cpp
+  正在生成代码...
+    正在创建库 E:\Projects\CSharp\PInvokeLib\Debug\PInvokeLib.lib 和对象 E:\Projects\CSharp\PInvokeLib\Debug\PInvokeLib.exp
+  PInvokeLib.vcxproj -> E:\Projects\CSharp\PInvokeLib\Debug\PInvokeLib.dll
